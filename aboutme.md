@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Wavefier
+subtitle: A framework for multi-messenger astronomy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The **Wavefier** project was born with the aim of building a portable framework to run analysis of multi-messenger data from astophyiscal source. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Multi-messenger Astronomy
+An event in the Universe is referred to as *multi-messenger* when it emits a variety of signals that can be detected by observatories
+and instruments on Earth and in space. A typical multi-messenger event can be detected through different observation channels:
+- Electromagnetic radiation(EM)
+- Gravitational waves (GW)
+- Neutrinos and antineutrinos
+- Cosmic ray particles
 
-What else do you need?
+Worldwide scientific collaborations study these channels by setting up and maintaining large and complex experiments which collect data fed to their analysis pipeline. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Wavefier
+(Description about the project here).
