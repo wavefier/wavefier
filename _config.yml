@@ -23,7 +23,7 @@ navbar-links:
   Summary: "about"
   User Manual: "usermanual"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Git Project: "https://github.com/wavefier"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
 
