@@ -20,7 +20,8 @@ author: The Wavefier Team
 ###############################################
 
 navbar-links:
-  Summary: "aboutme"
+  Summary: "about"
+  User Manual: "usermanual"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
