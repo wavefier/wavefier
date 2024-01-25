@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Wavefier
+title: Wavefier in a nusthell
 subtitle: A framework for multi-messenger astronomy
 ---
 
