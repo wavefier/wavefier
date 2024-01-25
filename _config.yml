@@ -20,7 +20,7 @@ author: The Wavefier Team
 ###############################################
 
 navbar-links:
-  Wavefier Explained: "aboutme"
+  Summary: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
