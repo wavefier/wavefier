@@ -21,6 +21,7 @@ author: The Wavefier Team
 
 navbar-links:
   Summary: "about"
+  Pipeline Components: "pipeline"
   User Manual: "usermanual"
   Resources:
     - Git Project: "https://github.com/wavefier"
